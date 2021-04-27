@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/creator/123456/account", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/creator/123456/addbook", {data:[{}],fetch:{},mutations:void 0});
